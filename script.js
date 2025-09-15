@@ -4,7 +4,7 @@ export const modules = [
     subjects: [
       {
         name: "Клянись, что не изменишь своему счастью...",
-        link: "https://disk.yandex.ru/i/Wzl_ndIohZ0Tqg",
+        link: "https://disk.yandex.ru/i/eAbOu48wxQLH4Q",
       },
       {
         name: "Отражение в лезвии ножа.",
